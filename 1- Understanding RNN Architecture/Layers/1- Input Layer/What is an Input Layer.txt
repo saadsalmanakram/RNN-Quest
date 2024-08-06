@@ -1,0 +1,1 @@
+This is where the input data sequence is fed into the network. Each element of the input sequence is processed one at a time.
