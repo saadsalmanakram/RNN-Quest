@@ -1,0 +1,1 @@
+An advanced type of RNN that can capture long-term dependencies by using gates to control the flow of information.
