@@ -1,0 +1,1 @@
+This layer produces the output of the network for each time step. The output can be a single value or a vector, depending on the task.
