@@ -1,0 +1,3 @@
+- Choose a Loss Function: Select a loss function to measure the difference between the predicted output and the actual target (e.g., cross-entropy loss for classification, mean squared error for regression).
+
+- Calculate Loss: Compute the loss between the predicted output and the actual target.

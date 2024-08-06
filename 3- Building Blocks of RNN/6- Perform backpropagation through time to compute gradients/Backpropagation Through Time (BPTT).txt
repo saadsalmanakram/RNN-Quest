@@ -1,0 +1,3 @@
+- Compute Gradients: Calculate the gradients of the loss with respect to the network parameters. Due to the recurrent nature of RNNs, this involves propagating the gradients back through time.
+
+- Accumulate Gradients: Accumulate the gradients over the entire sequence.
