@@ -1,0 +1,1 @@
+- Update Parameters: Use an optimization algorithm (e.g., stochastic gradient descent (SGD) or Adam) to update the network parameters based on the accumulated gradients.
