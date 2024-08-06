@@ -1,0 +1,3 @@
+- Input Sequence: Feed the input sequence through the network.
+
+- Hidden States and Outputs: Compute the hidden states and outputs for each time step.
