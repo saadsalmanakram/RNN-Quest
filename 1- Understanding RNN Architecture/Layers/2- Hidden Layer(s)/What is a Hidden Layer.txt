@@ -1,0 +1,1 @@
+This layer contains neurons that maintain a state by incorporating both the current input and the previous hidden state. The hidden state is updated at each time step based on the input and the previous hidden state.
