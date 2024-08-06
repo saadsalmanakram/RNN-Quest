@@ -1,0 +1,1 @@
+A simplified version of LSTM that also uses gates to control information but with fewer parameters.
