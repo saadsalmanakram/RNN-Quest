@@ -3,7 +3,7 @@
 
 # 🚀 RNN-Quest: Mastering Recurrent Neural Networks (RNNs)
 
-![](https://cdn.pixabay.com/photo/2023/05/19/18/02/ai-generated-8005087_1280.png)
+![](https://cdn.pixabay.com/photo/2021/12/15/17/16/technology-6873012_1280.jpg)
 
 Welcome to **RNN-Quest**, your one-stop resource to learn everything about **Recurrent Neural Networks (RNNs)**! Whether you're new to RNNs or looking to dive into advanced architectures, this repository will guide you through the key concepts, implementations, and applications of RNNs.
 
